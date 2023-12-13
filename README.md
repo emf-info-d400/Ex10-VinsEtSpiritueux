@@ -1,4 +1,4 @@
-# Exercice 11 : Vins Et Spiritueux
+# Exercice 10 : Vins Et Spiritueux
 ## durée : 240'
 ## Objectifs visés :
 Maîtrise de MVC ; Maitriser les diagrammes de séquence ; Maitriser les diagrammes de classes ; Savoir se référer à la Javadoc.
